@@ -1,4 +1,4 @@
-## Hi there 👋
+## 게임도 하고 게임도 만드는 개발자
 
 <!--
 **desffh/desffh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
